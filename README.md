@@ -1,0 +1,55 @@
+# Lauv – Love U Like That
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:04.91] Drunk in the rain, really old habits, really old baggage
+[00:10.34] Just walked away, into your madness, onto your mattress
+[00:15.46] Goddamn, okay, you're so attractive, how did that happen?
+[00:20.52] Hm-mm, oh
+[00:25.02] 
+[00:24.92] And you're kissing on my neck, I'm like, "Oh"
+[00:29.63] Got your hands up on my chest, I'm like, "Oh"
+[00:34.71] Kiss me 'til there's nothing left, oh my God, oh my God
+[00:42.47] (You could really tear me apart, but)
+[01:00.97] 
+[00:46.62] I love you like that, everything you do just turns me on
+[00:51.93] I love you like that, body on my mind like all night long
+[00:56.73] Six o'clock in the morning, babe, want you more than yesterday
+[01:01.68] Used to judge myself, now I don't care 'cause
+[01:24.18] 
+[01:05.85] Hey, I love you like that, everything you do just turns me on
+[01:11.99] I love you like that, body on my mind like all night long
+[01:16.84] Six o'clock in the morning, babe, want you more than yesterday
+[01:21.99] Used to judge myself, now I don't care 'cause
+[01:44.49] 
+[01:26.07] I'm wide awake, I don't need coffee, I know you want me
+[01:31.18] That's the champagne, sipping it slowly, getting to know you
+[01:36.18] And me the same, you're so attractive, how did that happen?
+[01:41.40] Hm-mm, oh (oh)
+[01:48.40] 
+[01:45.73] And you're kissing on my neck, I'm like, "Oh"
+[01:50.77] Got your hands up on my chest, I'm like, "Oh"
+[01:55.76] Kiss me 'til there's nothing left, oh my God, oh my God
+[02:03.56] (You could really tear me apart, but)
+[02:22.06] 
+[02:07.51] I love you like that, everything you do just turns me on
+[02:12.64] I love you like that, body on my mind like all night long
+[02:17.52] Six o'clock in the morning, babe, want you more than yesterday
+[02:22.57] Used to judge myself, now I don't care 'cause
+[02:45.07] 
+[02:26.61] Hey, I love you like that, everything you do just turns me on
+[02:32.85] I love you like that, body on my mind like all night long
+[02:37.68] Six o'clock in the morning, babe, want you more than yesterday
+[02:42.73] Used to judge myself, now I don't care 'cause
+[03:05.23] 
+[02:47.09] Ooh, tell me we're something, tell me we're nothing
+[02:51.95] Ooh, you're driving me crazy, driving in London
+[02:57.06] Ooh, my mind's in the back seat, my heart's in the front and (ooh)
+[03:03.01] Used to judge myself, now I don't care 'cause
+[03:25.51] 
+[03:07.08] (Hey) I love you like that, everything you do just turns me on
+[03:13.37] I love you like that, body on my mind like all night long
+[03:18.19] Six o'clock in the morning, babe, want you more than yesterday
+[03:23.11] Used to judge myself, now I don't care 'cause
+```
