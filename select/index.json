@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Love U Like That",
+  "base_artist": "Lauv",
+  "createdAt": "2025-12-17T07:08:19.634075Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Love U Like That",
+      "artist": "Lauv",
+      "has_synced": true,
+      "path": "select/01_Love_U_Like_That_Lauv.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Love U Like That",
+      "artist": "Lauv",
+      "has_synced": true,
+      "path": "select/02_Love_U_Like_That_Lauv.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Love U Like That",
+      "artist": "Lauv",
+      "has_synced": true,
+      "path": "select/03_Love_U_Like_That_Lauv.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Love U Like That (Korean version)",
+      "artist": "Lauv",
+      "has_synced": true,
+      "path": "select/04_Love_U_Like_That_(Korean_version)_Lauv.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Love U Like That",
+      "artist": "Lauv",
+      "has_synced": true,
+      "path": "select/05_Love_U_Like_That_Lauv.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Love U Like That",
+      "artist": "Lauv",
+      "has_synced": true,
+      "path": "select/06_Love_U_Like_That_Lauv.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "LOVE U LIKE THAT",
+      "artist": "André Nowak",
+      "has_synced": false,
+      "path": "select/07_LOVE_U_LIKE_THAT_André_Nowak.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Love U Like That",
+      "artist": "Lauv",
+      "has_synced": true,
+      "path": "select/08_Love_U_Like_That_Lauv.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Lauv - Love U Like That [Official Video]",
+      "artist": "Lauv",
+      "has_synced": true,
+      "path": "select/09_Lauv_-_Love_U_Like_That_[Official_Video]_Lauv.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Love U Like That",
+      "artist": "Jback",
+      "has_synced": true,
+      "path": "select/10_Love_U_Like_That_Jback.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Love U Like That",
+      "artist": "V.A.",
+      "has_synced": true,
+      "path": "select/11_Love_U_Like_That_V.A..lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Love U Like That",
+      "artist": "ay-Mill",
+      "has_synced": true,
+      "path": "select/12_Love_U_Like_That_ay-Mill.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Love U Like That",
+      "artist": "Lauv",
+      "has_synced": true,
+      "path": "select/13_Love_U_Like_That_Lauv.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Love U Like That (Korean Version)",
+      "artist": "Lauv",
+      "has_synced": true,
+      "path": "select/14_Love_U_Like_That_(Korean_Version)_Lauv.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Love U Like That",
+      "artist": "ay-Mill/Paul Hawksworth/Saxena",
+      "has_synced": true,
+      "path": "select/15_Love_U_Like_That_ay-Mill_Paul_Hawksworth_Saxena.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Love U Like That",
+      "artist": "Lauv",
+      "has_synced": false,
+      "path": "select/pl_01_Love_U_Like_That_Lauv.txt"
+    }
+  ]
+}
